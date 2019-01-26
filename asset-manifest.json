@@ -1,0 +1,11 @@
+{
+  "main.js": "/deploytest/static/js/main.e3bd0223.chunk.js",
+  "main.js.map": "/deploytest/static/js/main.e3bd0223.chunk.js.map",
+  "static/js/1.6ebd15ca.chunk.js": "/deploytest/static/js/1.6ebd15ca.chunk.js",
+  "static/js/1.6ebd15ca.chunk.js.map": "/deploytest/static/js/1.6ebd15ca.chunk.js.map",
+  "runtime~main.js": "/deploytest/static/js/runtime~main.81fc1f3e.js",
+  "runtime~main.js.map": "/deploytest/static/js/runtime~main.81fc1f3e.js.map",
+  "index.html": "/deploytest/index.html",
+  "precache-manifest.05620ce5d608ee57e105d7439440b81d.js": "/deploytest/precache-manifest.05620ce5d608ee57e105d7439440b81d.js",
+  "service-worker.js": "/deploytest/service-worker.js"
+}
